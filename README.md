@@ -23,13 +23,9 @@
 
 </p>
 
+
+
 ## 🛠️ Languages and Tools:
-
-
-
-
-
-## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplspls" height="40" style="vertical-align:top; margin:4px">
 
