@@ -3,18 +3,11 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `Student` at Faculty of Computer & Information at Menoufia University
-- :technologist: I love using Software as a solution for every `Problem`
+- :school: I am a `Student` at Faculty of Computer & Information at Menoufia University.
+- :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-(https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
-- :nerd_face: Always `learning new things`
+- :nerd_face: Always `learning new things`.
 
-<br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
-
-<br>
 <br>
 
 
@@ -32,9 +25,7 @@
 
 
 
-## 🛠️ My Skills
-
-### 👉 Programming languages
+## 🛠️ My Skills & Programming languages
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
