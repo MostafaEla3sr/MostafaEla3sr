@@ -32,7 +32,7 @@
 	<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 		
 	
-
+<br/>
 <br>	
 	
 	<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -47,7 +47,7 @@
 
 	
 	
-	
+<br/>	
 <br>
 	
 	<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
@@ -55,7 +55,7 @@
 	<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 		
 	
-
+<br/>
 <br>	
 	
 	<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -64,13 +64,13 @@
 
 	<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
  
-	
+<br/>	
 	
 </p>
 
 
-
-
+<br/>
+<br/>
 
 -----
 Credits: [Mostafa](https://github.com/MostafaEla3sr)
