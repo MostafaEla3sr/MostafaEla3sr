@@ -3,7 +3,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I am a `Student` at Faculty of Computer & Information at Menoufia University.
+- :school: I am a `Fresh Graduated` from Faculty of Computer & Information at Menoufia University.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning: `Flutter`.
 - :nerd_face: Always `learning new things`.
