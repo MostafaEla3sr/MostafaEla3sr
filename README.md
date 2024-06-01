@@ -1,72 +1,61 @@
-<h1 align="center">👋 Hi, I’m @Mohamed Elhabashy</h1>
-<h3 align="center">SoftwareEnginner and graduated from Computer Science University</h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Elhabashy" alt="Mohamed Elhabashy" />
-  </a> 
-</p>
+<h1 align="center">Hi , I'm Mostafa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> 
-<img src="https://komarev.com/ghpvc/?username=Mohamed-Elhabashy&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed Elhabashy" /> 
-  </p>
+## :sassy_man:  About me
+- :school: I am a `Fresh Graduated` from Faculty of Computer & Information at Menoufia University.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning: `Flutter`.
+- :nerd_face: Always `learning new things`.
 
 <br>
 
-- 📫 How to reach me **mohamedsamy01090@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohamed-elhabashy-076542164/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Elhabashy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Elhabashy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Elhabashy" height="30" width="40" /></a>
-<a href="https://leetcode.com/Elhabashy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Elhabashy/" height="30" width="40" /></a>
+## Connect with me
+<p align="center">
+	<a href="mailto:mostafa2310551@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/MostafaEla3sr"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/0201067859354"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/mostafa-rabie-al-aasr-aa1b53280/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/mostafa_ela3sr"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+	<a href="https://www.facebook.com/MostafaELa3sr"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/mostafa_ela3sr/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
- 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  
- 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  
+
+
+## 🛠️ Languages and Tools:
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplspls" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="java script" height="40" style="vertical-align:top; margin:4px">
+	
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" height="40" style="vertical-align:top; margin:4px">
+	
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+	
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" alt="android" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="40" style="vertical-align:top; margin:4px">
+
+
 </p>
 
-<br>
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Elhabashy&show_icons=true&locale=en" alt="Mohamed Elhabashy"
-    bg_color=#808080/></p>
+##
 
-<br>
-<p>leetCode Status</p>
+Credits: [Mostafa](https://github.com/MostafaEla3sr)
 
-[![Mohamed Elhabashy's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Elhabashy)](https://github.com/KnlnKS/leetcode-stats)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Elhabashy&show_icons=true&locale=en" alt="Mohamed Elhabashy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Elhabashy&show_icons=true&locale=en" alt="Mohamed Elhabashy" /></p>
+Last Edited on: 29/05/2022
